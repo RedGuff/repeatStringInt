@@ -1,2 +1,4 @@
 # repeatStringInt
-repeatStringInt is a function that repeats the string as a pattern, several times. Tuto.
+repeatStringInt is a function that repeats the string as a pattern, several times. 
+Tuto.
+As the name says: string first, int after.
