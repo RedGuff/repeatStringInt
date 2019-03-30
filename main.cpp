@@ -2,7 +2,7 @@
 
 using namespace std;
 
-string repeatStringInt ( string pattern = "", int n = 0 ) // As the name says: string first, int after.
+string repeatStringInt ( string pattern = "", int n = 0 ) // As the name says: string first, int after. // https://github.com/RedGuff/repeatStringInt
 {
     if ( n < 0 )
         {
